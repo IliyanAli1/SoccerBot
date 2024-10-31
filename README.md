@@ -13,3 +13,5 @@ Bluetooth Module - Provides Bluetooth communication with the smartphone app.
 Motor Driver - Drives the four motors for omnidirectional movement.
 Four DC Motors with Wheels - Controls the bot’s movement.
 3D-Printed Front Attachment - Custom-designed attachment in SolidWorks to handle the ball.
+
+![image](https://github.com/user-attachments/assets/539168ca-0f08-4b7e-9f8e-f6961e294e5b)
