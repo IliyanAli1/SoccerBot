@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/539168ca-0f08-4b7e-9f8e-f6961e294e5b)
+
 # SoccerBot
 The Soccer Bot is designed to participate in soccer-like robot competitions, where it can chase, capture, and shoot the ball towards a goal. Using a Bluetooth module, users can control the bot from a mobile app for real-time maneuvering on the field.
 
@@ -14,4 +16,3 @@ Motor Driver - Drives the four motors for omnidirectional movement.
 Four DC Motors with Wheels - Controls the bot’s movement.
 3D-Printed Front Attachment - Custom-designed attachment in SolidWorks to handle the ball.
 
-![image](https://github.com/user-attachments/assets/539168ca-0f08-4b7e-9f8e-f6961e294e5b)
